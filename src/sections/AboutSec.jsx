@@ -45,7 +45,7 @@ const AboutSec = () => {
               atque quo a debitis est tempore!
             </p>
           </div>
-          <img src="/public/1c.jpg" alt="imgs" className="w-full h-full " />
+          <img src="/1c.jpg" alt="imgs" className="w-full h-full " />
         </div>
         <div className="card w-[800px] h-[500px] absolute">
           <div className="absolute top-1/2 left-1/2 -translate-1/2 flex flex-col gap-3 justify-center items-center text-gray-900">
@@ -57,7 +57,7 @@ const AboutSec = () => {
               atque quo a debitis est tempore!
             </p>
           </div>
-          <img src="/public/2c.jpg" alt="imgs" className="w-full h-full " />
+          <img src="/2c.jpg" alt="imgs" className="w-full h-full " />
         </div>
         <div className="card w-[800px] h-[500px] absolute">
           <div className="absolute top-1/2 left-1/2 -translate-1/2 flex flex-col gap-3 justify-center items-center text-gray-900">
@@ -69,7 +69,7 @@ const AboutSec = () => {
               atque quo a debitis est tempore!
             </p>
           </div>
-          <img src="/public/3c.jpg" alt="imgs" className="w-full h-full " />
+          <img src="/3c.jpg" alt="imgs" className="w-full h-full " />
         </div>
       </div>
     </div>

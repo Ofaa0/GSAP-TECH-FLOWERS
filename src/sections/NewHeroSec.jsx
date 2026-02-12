@@ -135,7 +135,7 @@ const NewHeroSec = ({ tl }) => {
       </nav>
       <div className="container relative w-full h-full ">
         <div className="absolute left-1/2 -translate-x-1/2 top-10 w-fit ">
-          <img id="hero" src="/public/hero.png" alt="hero" />
+          <img id="hero" src="/hero.png" alt="hero" />
         </div>
         <div className="flex justify-between items-center w-full h-full">
           {/* title about flowers */}
