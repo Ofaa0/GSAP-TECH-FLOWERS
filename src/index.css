@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+.card:not(:first-child) {
+  position: absolute;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-Black.woff2") format("woff2"),
+    url("./fonts/OVSoge-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-Bold.woff2") format("woff2"),
+    url("./fonts/OVSoge-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-ExtraBold.woff2") format("woff2"),
+    url("./fonts/OVSoge-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-ExtraLight.woff2") format("woff2"),
+    url("./fonts/OVSoge-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-Light.woff2") format("woff2"),
+    url("./fonts/OVSoge-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-Medium.woff2") format("woff2"),
+    url("./fonts/OVSoge-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-Regular.woff2") format("woff2"),
+    url("./fonts/OVSoge-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-SemiBold.woff2") format("woff2"),
+    url("./fonts/OVSoge-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("./fonts/OVSoge-Thin.woff2") format("woff2"),
+    url("./fonts/OVSoge-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gendy";
+  src:
+    url("./fonts/GendyRegular.woff2") format("woff2"),
+    url("./fonts/GendyRegular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --font-ov: "OV Soge";
+  --font-gendy: "Gendy";
+}
+

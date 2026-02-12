@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-Black.woff2") format("woff2"),
+    url("OVSoge-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-Bold.woff2") format("woff2"),
+    url("OVSoge-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-ExtraBold.woff2") format("woff2"),
+    url("OVSoge-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-ExtraLight.woff2") format("woff2"),
+    url("OVSoge-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-Light.woff2") format("woff2"),
+    url("OVSoge-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-Medium.woff2") format("woff2"),
+    url("OVSoge-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-Regular.woff2") format("woff2"),
+    url("OVSoge-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-SemiBold.woff2") format("woff2"),
+    url("OVSoge-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OV Soge";
+  src:
+    url("OVSoge-Thin.woff2") format("woff2"),
+    url("OVSoge-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gendy';
+    src: url('GendyRegular.woff2') format('woff2'),
+        url('GendyRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
